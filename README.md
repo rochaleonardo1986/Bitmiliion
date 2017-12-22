@@ -1,17 +1,17 @@
 # Dogecoin Core [DOGE, Ð]
 ==========================
 
-![Dogecoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Bitmillion](http://www.bitmillion.org/images/logo.png)
 
 [![Build Status](https://travis-ci.org/dogecoin/dogecoin.svg?branch=1.7-dev)](https://travis-ci.org/dogecoin/dogecoin) [![tip for next commit](https://tip4commit.com/projects/702.svg)](https://tip4commit.com/github/dogecoin/dogecoin)
 
-## What is Dogecoin? – Such coin
-Dogecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Dogecoin currently employs a simplified variant of scrypt.
+## What is Bitmillion? – Such coin
+bitmillion is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Dogecoin currently employs a simplified variant of scrypt.
 
-http://dogecoin.com/
+http://www.bitmillion.org/#a-moeda
 
 ## License – Much license
-Dogecoin is released under the terms of the MIT license. See [COPYING](COPYING)
+Bitmillion is released under the terms of the MIT license. See [COPYING](COPYING)
 for more information or see http://opensource.org/licenses/MIT.
 
 ## Development and contributions – omg developers
