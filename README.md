@@ -1,4 +1,4 @@
-# Dogecoin Core [DOGE, Ð]
+# Bitmillion Core [BTM, ]
 ==========================
 
 ![Bitmillion](http://www.bitmillion.org/images/logo.png)
